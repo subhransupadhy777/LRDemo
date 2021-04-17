@@ -7,7 +7,7 @@ Action()
 		"RecContentType=text/html", 
 		"Referer=", 
 		"Snapshot=t1.inf", 
-		"Mode=HTML", 
+		"Mode=HTML",  
 		EXTRARES, 
 		"Url=../favicon.ico", "Referer=", ENDITEM, 
 		LAST);
